@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 it is the second version of aliens and humans.
+=======
+it is the second versionof aliens vsp.
+>>>>>>> alien-plot

@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 it is third version of aliens.
+=======
+it is third version of data aleins.
+>>>>>>> alien-plot

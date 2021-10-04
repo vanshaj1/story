@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 it is the first version of space aliens.
+=======
+it is the first version of aliens vsp.
+>>>>>>> alien-plot
